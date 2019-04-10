@@ -1,0 +1,72 @@
+Lab04: Podatki dla króla.
+
+Poborca podatkowy wyrusza na swoim osio³ku, aby zbieraæ daniny dla króla. Ma za zadanie odwiedziæ
+wszystkie wioski, znajduj¹ce siê przy g³ównej drodze - w ostatniej z nich jest skarbiec, gdzie
+zostan¹ zdeponowane zebrane pieni¹dze.
+Problemem jest to, ¿e d³uga podró¿ jest wyczerpuj¹ca dla osio³ka, który, pozbawiony sta³ego dop³ywu
+po¿ywienia, mo¿e paœæ z wyczerpania. Oczywiœcie misja jest wtedy nieudana, gdy¿ pieni¹dze trzeba
+dowieŸæ do ostatniej wioski.
+
+Na szczêœcie prawo stanowi, ¿e ka¿da wioska mo¿e zap³aciæ daninê w jednej z dwóch postaci:
+pieniêdzy lub marchewek (po¿ywienia dla osio³ka). Po przybyciu do wioski, poborca mo¿e zadecydowaæ,
+czy chce zabraæ wszystkie pieni¹dze czy wszystkie marchewki. Nie ma mo¿liwoœci pobrania daniny
+w postaci mieszanej.
+
+Zadaniem jest zaplanowaæ plan poboru podatków, czyli to, w których wioskach nale¿y pobieraæ
+pieni¹dze, a w których marchewki w taki sposób, aby zmaksymalizowaæ iloœæ zebranych pieniêdzy.
+Jest jeszcze jedno dodatkowe ograniczenie: poziom zape³nienia ¿o³¹dka osio³ka na koñcu nie 
+mo¿e byæ ni¿szy ni¿ startowy poziom zape³nienia.
+Osio³ek ma ograniczon¹ pojemnoœæ ¿o³¹dka, oznaczan¹ jako maxCarrots. Jeœli pobrane
+marchewki spowoduj¹ przekroczenie tego limitu, nadmiar marchewek jest odrzucany.
+
+Dane wejœciowe (wszystkie tablice przechowuj¹ liczby ca³kowite, nieujemne)
+- startingCarrots - pocz¹tkowy poziom zape³nienia ¿o³¹dka osio³ka, wyra¿ony w marchewkach.
+Koñcowy poziom zape³nienia ¿o³¹dka nie mo¿e byæ ni¿szy ni¿ startowy.
+- maxCarrots - maksymalny poziom zape³nienia ¿o³¹dka
+- dist[] - tablica, informuj¹ca o odleg³oœciach miêdzy si¹siednimi wioskami wzd³u¿ drogi. Wartoœæ
+dist[i] oznacza odleg³oœæ miêdzy wioskami (i-1) a i. Pole dist[0] zawsze wynosi 0. Odleg³oœæ jest
+wyra¿ona w marchewkach.
+- carrots[] - liczba marchewek, które mo¿na pobraæ w kolejnych wioskach
+- money[] - iloœæ pieniêdzy, które mo¿na pobraæ w kolejnych wioskach
+
+Dane wyjœciowe:
+- zwracamy maksymaln¹ iloœæ pieniêdzy, któr¹ mo¿na zdobyæ, doje¿d¿aj¹c do ostatniej wioski (³¹cznie
+z tym, co zbierzemy w ostatniej wiosce). Jeœli niemo¿liwe jest dotarcie do ostatniej wioski, nale¿y
+zwróciæ -1.
+- jako parametr wyjœciowy zwracamy tablicê plan, której kolejne pola opisuj¹ optymalne akcje w
+poszczególnych wioskach: zabranie pieniêdzy (TakeMoney) lub zabranie marchewek (TakeCarrots). Akcja
+pusta nigdy nie powinna znaleŸæ siê w rozwi¹zaniu. Jeœli niemo¿liwe jest dotarcie do ostatniej
+wioski, nale¿y zwróciæ null.
+
+Uwaga:
+- Osio³ek w ka¿dym momencie ma pewien poziom zape³nienia ¿o³¹dka. Przebycie odleg³oœci d zmniejsza
+ten poziom o d. Jeœli poziom zape³nienia ¿o³¹dka kiedykolwiek spadnie poni¿ej 0, osio³ek padnie z
+wyczerpania i misja zakoñczy siê fiaskiem (poziom 0 jest dopuszczalny)
+- Oczekiwana z³o¿onoœæ obliczeniowa i pamiêciowa to O(n * maxCarrots), gdzie n jest liczb¹
+miejscowoœci.
+
+Wskazówka:
+- dla ka¿dego (i,j) znajdŸ najwiêksz¹ iloœæ pieniêdzy, które mo¿na zebraæ, opuszczaj¹c miasto
+i przy stanie zape³nienia ¿o³¹dka osio³ka j.
+
+Przyk³ad:
+dist	0 1 1
+money	2 2 3
+carrots	5 3 1
+
+startingCarrots = 0
+maxCarrots = 3
+
+Rozwa¿my nastêpuj¹cy ci¹g akcji TC, TM, TM.
+Pocz¹tkowy poziom zape³nienia ¿o³¹dka to 0, na starcie iloœæ pieniêdzy to te¿ 0.
+W pierwszej wiosce pobieramy marchewki (TC). Jest ich 5, ale pojemnoœæ ¿o³¹dka wynosi 3, czyli dwie
+z nich zostan¹ odrzucone.
+Pierwsz¹ wioskê opuszczamy z poziomem zape³nienia 3 i bez pieniêdzy.
+Poniewa¿ odleg³oœæ miêdzy pierwsz¹ a drug¹ wiosk¹ wynosi 1, do drugiej wioski doje¿d¿amy z poziomem
+zape³nienia ¿o³¹dka 2. Pobieramy tam pieni¹dze (TM), zatem drug¹ wioskê opuszczamy z poziomem
+zape³nienia 2 i 2 workami pieniêdzy. Doje¿d¿amy do trzeciej wioski, nasz poziom zape³nienia ¿o³¹dka
+to 1. Pobieramy 3 worki pieniêdzy (TC) i koñczymy podró¿ z piêcioma workami.
+
+Punktacja:
+3 pkt - znalezienie optymalnej iloœci pieniêdzy
+1 pkt - znalezienie optymalnego planu

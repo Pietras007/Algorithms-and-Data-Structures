@@ -1,0 +1,29 @@
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\bin\Debug\lab5.exe.config
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\bin\Debug\lab5.exe
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\bin\Debug\lab5.pdb
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\bin\Debug\Graph.dll
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\bin\Debug\TestSet.dll
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\obj\Debug\lab5.csproj.CopyComplete
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\obj\Debug\lab5.exe
+h:\Windows7\Desktop\ASD2\lab5\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\bin\Debug\Graph.dll
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\bin\Debug\TestSet.dll
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\obj\Debug\lab5.csproj.CopyComplete
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\Piotrek\Documents\lab5\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\Piotr\Desktop\AISD 2\aisd - 5 skonczone\lab5\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\Piotr\Desktop\AISD 2\aisd - 5 skonczone\lab5\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\Piotr\Desktop\AISD 2\aisd - 5 skonczone\lab5\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\Piotr\Desktop\AISD 2\aisd - 5 skonczone\lab5\lab5\lab5\bin\Debug\Graph.dll
+C:\Users\Piotr\Desktop\AISD 2\aisd - 5 skonczone\lab5\lab5\lab5\bin\Debug\TestSet.dll
+C:\Users\Piotr\Desktop\AISD 2\aisd - 5 skonczone\lab5\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\AISD 2\aisd - 5 skonczone\lab5\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\AISD 2\aisd - 5 skonczone\lab5\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\Piotr\Desktop\AISD 2\aisd - 5 skonczone\lab5\lab5\lab5\obj\Debug\lab5.pdb

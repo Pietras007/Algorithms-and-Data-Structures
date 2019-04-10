@@ -1,0 +1,16 @@
+h:\Windows7\Desktop\ASD2\lab4\lab4\lab4\bin\Debug\lab4.exe.config
+h:\Windows7\Desktop\ASD2\lab4\lab4\lab4\bin\Debug\lab4.exe
+h:\Windows7\Desktop\ASD2\lab4\lab4\lab4\bin\Debug\lab4.pdb
+h:\Windows7\Desktop\ASD2\lab4\lab4\lab4\bin\Debug\TestSet.dll
+h:\Windows7\Desktop\ASD2\lab4\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+h:\Windows7\Desktop\ASD2\lab4\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\ASD2\lab4\lab4\lab4\obj\Debug\lab4.csproj.CopyComplete
+h:\Windows7\Desktop\ASD2\lab4\lab4\lab4\obj\Debug\lab4.exe
+h:\Windows7\Desktop\ASD2\lab4\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 4 skonczone\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 4 skonczone\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 4 skonczone\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 4 skonczone\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 4 skonczone\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 4 skonczone\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 4 skonczone\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache

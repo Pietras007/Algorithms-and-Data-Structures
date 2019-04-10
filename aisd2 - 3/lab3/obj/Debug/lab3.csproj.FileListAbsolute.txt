@@ -1,0 +1,48 @@
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\bin\Debug\lab3.exe
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\bin\Debug\lab3.pdb
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\bin\Debug\Graph.dll
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\bin\Debug\TestSet.dll
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\obj\Debug\lab3.csproj.CopyComplete
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\obj\Debug\lab3.exe
+h:\Windows7\Desktop\ASD2\lab3\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\Graph.dll
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\TestSet.dll
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\Graph.dll
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\TestSet.dll
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.csproj.CopyComplete
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Piotrek\Documents\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\Graph.dll
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\bin\Debug\TestSet.dll
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.csproj.CopyComplete
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\FADN\Desktop\AAAAAAAAAAAAAaa\AAzkomputera\aisd2 - 3 skonczone\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone2\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone2\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone2\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone2\lab3\lab3\bin\Debug\Graph.dll
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone2\lab3\lab3\bin\Debug\TestSet.dll
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone2\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone2\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone2\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Piotr\Desktop\AISD 2\aisd2 - 3 skonczone2\lab3\lab3\obj\Debug\lab3.pdb
